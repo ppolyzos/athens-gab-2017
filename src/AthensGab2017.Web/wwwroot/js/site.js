@@ -770,7 +770,6 @@ GabAthens = {
         if ($('.masonry').length && typeof $.fn.masonry == 'function') {
             $('.masonry').each(function () {
                 var $container = $(this);
-
                 $container.masonry({
                     itemSelector: '.masonry-item',
                     isAnimated: true,
@@ -1037,7 +1036,7 @@ GabAthens = {
 
         this.checkHeaderStatus();
 
-        this.masonryInit();
+        //this.masonryInit();
 
         this.hidePreloader();
     },
