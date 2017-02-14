@@ -8,6 +8,15 @@
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="wwwroot\img\speakers\speaker-dimosthenis-stellakis.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-kostas-pantos.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-nasos-loukas.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-paris-polyzos.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-vaggelis-kappas.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-vasilis-aivalis.jpg" />
+  </ItemGroup>
+  <ItemGroup>
     <PackageReference Include="Microsoft.NETCore.App" Version="1.0.1" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics" Version="1.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.0.1" />
