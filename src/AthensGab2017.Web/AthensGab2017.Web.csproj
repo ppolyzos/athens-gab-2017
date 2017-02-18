@@ -8,6 +8,10 @@
     <PackageTargetFallback>$(PackageTargetFallback);portable-net45+win8+wp8+wpa81;</PackageTargetFallback>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="wwwroot\img\communities\sqlschool.png" />
+    <Content Include="wwwroot\img\communities\sqlschoolgr.png" />
+    <Content Include="wwwroot\img\speakers\speaker-chatzipavlis-bw.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-chatzipavlis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-dimosthenis-stellakis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-kostas-pantos.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-nasos-loukas.jpg" />
