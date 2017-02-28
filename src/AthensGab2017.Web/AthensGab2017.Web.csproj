@@ -17,6 +17,7 @@
     <Content Include="wwwroot\img\speakers\speaker-nasos-loukas.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-paris-polyzos.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.png" />
     <Content Include="wwwroot\img\speakers\speaker-vaggelis-kappas.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-vasilis-aivalis.jpg" />
   </ItemGroup>
