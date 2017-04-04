@@ -12,12 +12,14 @@
     <Content Include="wwwroot\img\communities\sqlschool.png" />
     <Content Include="wwwroot\img\speakers\speaker-chatzipavlis-bw.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-chatzipavlis.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-chris-spanougakis.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-christos-charmatzis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-dimosthenis-stellakis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-kostas-pantos.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-nasos-loukas.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-pantelis-apostolidis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-paris-polyzos.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.jpg" />
-    <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.png" />
     <Content Include="wwwroot\img\speakers\speaker-vaggelis-kappas.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-vasilis-aivalis.jpg" />
   </ItemGroup>
