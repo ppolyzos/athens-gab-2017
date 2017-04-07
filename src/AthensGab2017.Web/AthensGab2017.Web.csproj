@@ -21,7 +21,9 @@
     <Content Include="wwwroot\img\speakers\speaker-paris-polyzos.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-sophie-chanialaki.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-vaggelis-kappas.jpg" />
+    <Content Include="wwwroot\img\speakers\speaker-vangelis-kapsalakis.jpg" />
     <Content Include="wwwroot\img\speakers\speaker-vasilis-aivalis.jpg" />
+    <Content Include="wwwroot\img\sponsors\sponsors-delivery.gr.jpg" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NETCore.App" Version="1.0.1" />
